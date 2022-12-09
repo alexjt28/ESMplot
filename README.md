@@ -9,31 +9,31 @@ For current prototype version, download entire directory 'ESMplot' (size: ~42MB)
 
 # Table of Contents
 
-======================================\
-Example script: calculate_seasavg.py:\
+======================================<br/>
+Example script: calculate_seasavg.py:<br/>
 ====================================== <br/>
 
  Example script for calculating a seasonal average from any number of netCDF files using the
   user-defined features of this package's functions.
 
 
-======================================\
-Example script: calculate_seascyc.py:\
-======================================\
+======================================<br/>
+Example script: calculate_seascyc.py:<br/>
+====================================== <br/>
 
  Example script for calculating the seasonal cycle (line and map plots) from any number of
-  netCDF files using the user-defined features of this package's functions.\
+  netCDF files using the user-defined features of this package's functions.<br/>
 
 
-==============================\
-directory 'climate_analysis':\
-==============================\
- --------------\
- climatology.py : list of functions for calculating climatologies from time series\
- --------------\
+==============================<br/>
+directory 'climate_analysis':<br/>
+============================== <br/>
+ --------------<br/>
+ climatology.py : list of functions for calculating climatologies from time series<br/>
+ --------------<br/>
   function : clmMonTLL() - calculate 12 month climatology from time series with dimensions
-                           (time x lat x lon)\
+                           (time x lat x lon)<br/>
   function : clmMonTLLL() - calculate 12 month climatology from time series with dimensions
-                            (time x atm level x lat x lon)\
+                            (time x atm level x lat x lon)<br/>
   function : clmMonTSLL() - calculate 12 month climatology from time series with dimensions
-                            (time x soil level x lat x lon)\
+                            (time x soil level x lat x lon)<br/>
