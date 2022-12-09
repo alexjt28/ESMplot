@@ -91,3 +91,9 @@ directory **print_values** <br/>
 *function* : **print_global_average()** - prints spatially weighted global average of a global variable <br/>
 *function* : **print_region_average()** - prints spatially weighted averaged over a specified region from a global variable <br/>
 *function* : **print_point_average()** - prints average at a specified point (grid cell) from a global variable <br/>
+
+============================== <br/>
+directory **pdfs** <br/>
+============================== <br/>
+
+Directory to which output files are sent
