@@ -41,13 +41,15 @@ function : mon_wgt_avg() - calculate seasonal average that is weighted by the pr
 
 **seas_avg_LL.py** : *list of functions for calculating seasonally averaged values on a map with final dimensions (lat x lon; hence LL)* <br/>
   
-function : seasavg_var_LL() - calculates seasonally averaged global map of a specifiedvariable that may or may not include an atmospheric level dimension <br/>
+function : seasavg_var_LL() - calculates seasonally averaged global map of a specifiedvariable that may or may not include an <br/>
+                              atmospheric level dimension <br/>
 function : seasavg_prect_LL() - calculates seasonally averaged global map of precipitation <br/>
 function : seasavg_soilvar_LL() - calculates seasonally averaged global map of variable that includes a soil level dimension <br/>
 function : seasavg_rainiso_LL() - calculates seasonally averaged global map of precipitation isotopes <br/>
 function : seasavg_soiliso_LL() - calculates seasonally averaged global map of soil water isotopes <br/>
 function : seasavg_vaporiso_LL() - calculates seasonally averaged global map of water vapor isotopes at a specified atmospheric level <br/>
-function : seasavg_isoroot_LL() - calculates seasonally averaged global map of soil water isotopes weighted by rooting depth fraction of vegetation <br/>
+function : seasavg_isoroot_LL() - calculates seasonally averaged global map of soil water isotopes weighted by rooting depth fraction of <br/>
+                                  vegetation <br/>
 function : seasavg_wind_vec_LL() - calculates seasonally averaged global map of U and V wind vectors <br/>
 
  ----------------- <br/>
