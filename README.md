@@ -11,7 +11,7 @@ For current prototype version, download entire directory 'ESMplot' (size: ~42MB)
 
 ======================================\
 Example script: calculate_seasavg.py:\
-======================================
+======================================\
 
  Example script for calculating a seasonal average from any number of netCDF files using the
   user-defined features of this package's functions.
@@ -19,7 +19,7 @@ Example script: calculate_seasavg.py:\
 
 ======================================\
 Example script: calculate_seascyc.py:\
-======================================
+======================================\
 
  Example script for calculating the seasonal cycle (line and map plots) from any number of
   netCDF files using the user-defined features of this package's functions.\
@@ -27,7 +27,7 @@ Example script: calculate_seascyc.py:\
 
 ==============================\
 directory 'climate_analysis':\
-==============================
+==============================\
  --------------\
  climatology.py : list of functions for calculating climatologies from time series\
  --------------\
