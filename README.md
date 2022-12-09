@@ -41,7 +41,7 @@ directory **climate_analysis** <br/>
 
 **seas_avg_LL.py** : *list of functions for calculating seasonally averaged values on a map with final dimensions (lat x lon; hence LL)* <br/>
   
-*function* : seasavg_var_LL() - calculates seasonally averaged global map of a specified variable that may or may not include an atmospheric level dimension <br/>
+*function* : **seasavg_var_LL()** - calculates seasonally averaged global map of a specified variable that may or may not include an atmospheric level dimension <br/>
 *function* : **seasavg_prect_LL()** - calculates seasonally averaged global map of precipitation <br/>
 *function* : **seasavg_soilvar_LL()** - calculates seasonally averaged global map of variable that includes a soil level dimension <br/>
 *function* : **seasavg_rainiso_LL()** - calculates seasonally averaged global map of precipitation isotopes <br/>
