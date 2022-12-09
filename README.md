@@ -11,7 +11,7 @@ For current prototype version, download entire directory 'ESMplot' (size: ~42MB)
 
 ======================================\
 Example script: calculate_seasavg.py:\
-======================================\
+====================================== <br/>
 
  Example script for calculating a seasonal average from any number of netCDF files using the
   user-defined features of this package's functions.
