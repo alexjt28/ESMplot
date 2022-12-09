@@ -39,8 +39,8 @@ directory **climate_analysis**: <br/>
                             (time x soil level x lat x lon) <br/>
 
  --------------<br/>
- mon_wgt_avg.py : list of functions for weighting 12 month climatology variables by the<br/>
- --------------   fractional length of each month <br/>
+ mon_wgt_avg.py : list of functions for weighting 12 month climatology variables by the fractional length of each month<br/>
+ --------------   <br/>
 
   function : mon_wgt_avg() - calculate seasonal average that is weighted by the proportional
                              length of each included month <br/>
