@@ -65,3 +65,31 @@ directory **climate_analysis** <br/>
 
 *function* : **seascyc_soilvar_TSLL()** - calculates seasonal cycle global map of a specified variable, final variable retains the soil level dimension <br/>
 *function* : **seascyc_soiliso_TSLL()** - calculates seasonal cycle global map of soil water isotopes, final variable retains the soil level dimension <br/>
+
+============================== <br/>
+directory **plotting** <br/>
+============================== <br/>
+
+#---**plot_functions.py**--- : *list of functions that are called for making plots elsewhere in this package* <br/>
+
+*function* : **save_multi_image()** - saves multiple images within the same PDF file as separate pages
+*function* : **map_ticks_and_labels()** - plot map ticks and labels for latitude and longitude coordinates in a variety of flexible, user-defined ways
+
+#---**plot_map_avg_functions.py**--- : *functions for plotting contour maps of netCDF output* <br/>
+
+*function* : **plot_contour_map_avg()** - makes panel plot with option for individual plots of seasonally averaged global variable, many user-defined options are available for custom plotting <br/>
+*function* : **plot_diff_contour_map_avg()** - makes panel plot with option for individual plots of seasonally averaged global variable differences, many user-defined options are available for custom plotting <br/>
+
+#---**plot_seascycle_functions.py**--- : *functions for plotting seasonal cycles of netCDF output in many possible ways* <br/>
+
+*function* : **plot_seasonal_cycle()** - plot seasonal cycle with options for 1) line plot, 2) map plots of each month, and 3) animated GIF of map plot for each month <br/>
+
+============================== <br/>
+directory **print_values** <br/>
+============================== <br/>
+
+#---**print_spatial_average.py**--- : *functions for printing a spatial average from a global variable* <br/>
+
+*function* : **print_global_average()** - prints spatially weighted global average of a global variable <br/>
+*function* : **print_region_average()** - prints spatially weighted averaged over a specified region from a global variable <br/>
+*function* : **print_point_average()** - prints average at a specified point (grid cell) from a global variable <br/>
