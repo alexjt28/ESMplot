@@ -29,9 +29,9 @@ Example script: **calculate_seascyc.py**: <br/>
 directory **climate_analysis**: <br/>
 ============================== <br/>
 
- **climatology.py** : list of functions for calculating climatologies from time series <br/>
-#--------------------
-function : clmMonTLL() - calculate 12 month climatology from time series with dimensions
+ **climatology.py** : *list of functions for calculating climatologies from time series* <br/>
+  
+  function : clmMonTLL() - calculate 12 month climatology from time series with dimensions
                            (time x lat x lon) <br/>
   function : clmMonTLLL() - calculate 12 month climatology from time series with dimensions
                             (time x atm level x lat x lon) <br/>
@@ -39,6 +39,7 @@ function : clmMonTLL() - calculate 12 month climatology from time series with di
                             (time x soil level x lat x lon) <br/>
 
  **mon_wgt_avg.py** : list of functions for weighting 12 month climatology variables by the fractional length of each month<br/>
+  
   function : mon_wgt_avg() - calculate seasonal average that is weighted by the proportional
                              length of each included month <br/>
 
