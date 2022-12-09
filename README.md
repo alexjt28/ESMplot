@@ -17,13 +17,11 @@ Example script: **calculate_seasavg.py** <br/>
 
 Example script for calculating a seasonal average from any number of netCDF files using the user-defined features of this package's functions.
 
-
 ====================================== <br/>
 Example script: **calculate_seascyc.py** <br/>
 ====================================== <br/>
 
 Example script for calculating the seasonal cycle (line and map plots) from any number ofnetCDF files using the user-defined features of this package's functions. <br/>
-
 
 ============================== <br/>
 directory **climate_analysis** <br/>
