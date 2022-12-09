@@ -72,8 +72,8 @@ directory **plotting** <br/>
 
 #---**plot_functions.py**--- : *list of functions that are called for making plots elsewhere in this package* <br/>
 
-*function* : **save_multi_image()** - saves multiple images within the same PDF file as separate pages
-*function* : **map_ticks_and_labels()** - plot map ticks and labels for latitude and longitude coordinates in a variety of flexible, user-defined ways
+*function* : **save_multi_image()** - saves multiple images within the same PDF file as separate pages <br/>
+*function* : **map_ticks_and_labels()** - plot map ticks and labels for latitude and longitude coordinates in a variety of flexible, user-defined ways <br/>
 
 #---**plot_map_avg_functions.py**--- : *functions for plotting contour maps of netCDF output* <br/>
 
