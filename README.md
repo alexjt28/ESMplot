@@ -37,17 +37,11 @@ directory **climate_analysis**: <br/>
   function : clmMonTSLL() - calculate 12 month climatology from time series with dimensions
                             (time x soil level x lat x lon) <br/>
 
- -------------- <br/>
- mon_wgt_avg.py : list of functions for weighting 12 month climatology variables by the fractional length of each month<br/>
- -------------- <br/>
-
+ **mon_wgt_avg.py** : list of functions for weighting 12 month climatology variables by the fractional length of each month<br/>
   function : mon_wgt_avg() - calculate seasonal average that is weighted by the proportional
                              length of each included month <br/>
 
- -------------- <br/>
- seas_avg_LL.py : list of functions for calculating seasonally averaged values on a map with <br/>
- --------------   final dimensions (lat x lon; hence LL) <br/>
-
+ **seas_avg_LL.py** : list of functions for calculating seasonally averaged values on a map with final dimensions (lat x lon; hence LL) <br/>
   function : seasavg_var_LL() - calculates seasonally averaged global map of a specified
                                 variable that may or may not include an atmospheric level
                                 dimension <br/>
