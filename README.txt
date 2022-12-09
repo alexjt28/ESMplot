@@ -3,8 +3,8 @@
 ##############################################################################################
 
 Welcome to ESMplot: the Earth System Model plotting package on Python!
-\nAuthor: Alex Thompson (ajthompson@wustl.edu)
-\nDate: 2022-12-06
+Author: Alex Thompson (ajthompson@wustl.edu)
+Date: 2022-12-06
 
 ##############################################################################################
 
