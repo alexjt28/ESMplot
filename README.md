@@ -37,19 +37,18 @@ directory **climate_analysis** <br/>
 
 **mon_wgt_avg.py** : *list of functions for weighting 12 month climatology variables by the fractional length of each month* <br/>
   
-function : mon_wgt_avg() - calculate seasonal average that is weighted by the proportional length of each included month <br/>
+*function* : **mon_wgt_avg()** - calculate seasonal average that is weighted by the proportional length of each included month <br/>
 
 **seas_avg_LL.py** : *list of functions for calculating seasonally averaged values on a map with final dimensions (lat x lon; hence LL)* <br/>
   
-function : seasavg_var_LL() - calculates seasonally averaged global map of a specified variable that may or may not include an atmospheric level dimension <br/>
-function : seasavg_prect_LL() - calculates seasonally averaged global map of precipitation <br/>
-function : seasavg_soilvar_LL() - calculates seasonally averaged global map of variable that includes a soil level dimension <br/>
-function : seasavg_rainiso_LL() - calculates seasonally averaged global map of precipitation isotopes <br/>
-function : seasavg_soiliso_LL() - calculates seasonally averaged global map of soil water isotopes <br/>
-function : seasavg_vaporiso_LL() - calculates seasonally averaged global map of water vapor isotopes at a specified atmospheric level <br/>
-function : seasavg_isoroot_LL() - calculates seasonally averaged global map of soil water isotopes weighted by rooting depth fraction of <br/>
-                                  vegetation <br/>
-function : seasavg_wind_vec_LL() - calculates seasonally averaged global map of U and V wind vectors <br/>
+*function* : seasavg_var_LL() - calculates seasonally averaged global map of a specified variable that may or may not include an atmospheric level dimension <br/>
+*function* : **seasavg_prect_LL()** - calculates seasonally averaged global map of precipitation <br/>
+*function* : **seasavg_soilvar_LL()** - calculates seasonally averaged global map of variable that includes a soil level dimension <br/>
+*function* : **seasavg_rainiso_LL()** - calculates seasonally averaged global map of precipitation isotopes <br/>
+*function* : **seasavg_soiliso_LL()** - calculates seasonally averaged global map of soil water isotopes <br/>
+*function* : **seasavg_vaporiso_LL()** - calculates seasonally averaged global map of water vapor isotopes at a specified atmospheric level <br/>
+*function* : **seasavg_isoroot_LL()** - calculates seasonally averaged global map of soil water isotopes weighted by rooting depth fraction of vegetation <br/>
+*function* : **seasavg_wind_vec_LL()** - calculates seasonally averaged global map of U and V wind vectors <br/>
 
  ----------------- <br/>
  seas_cycle_TLL.py : list of functions for calculating seasonal cycle variable on a map with <br/>
