@@ -52,7 +52,7 @@ directory **climate_analysis** <br/>
 
 #---**seas_cycle_TLL.py**--- : *list of functions for calculating seasonal cycle variable on a map with final dimensions (time = 12 months x lat x lon; hence TLL) <br/>
 
-*function* : **seascyc_var_TLL() - calculates seasonal cycle global map of a specified variable that may or may not include an atmospheric level dimension <br/>
+*function* : **seascyc_var_TLL()** - calculates seasonal cycle global map of a specified variable that may or may not include an atmospheric level dimension <br/>
 *function* : **seascyc_prect_TLL()** - calculates seasonal cycle global map of precipitation <br/>
 *function* : **seascyc_soilvar_TLL()** - calculates seasonal cycle global map of variable that includes a soil level dimension <br/>
 *function* : **seascyc_rainiso_TLL()** - calculates seasonal cycle global map of precipitation isotopes <br/>
