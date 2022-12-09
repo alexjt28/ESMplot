@@ -50,25 +50,16 @@ directory **climate_analysis** <br/>
 *function* : **seasavg_isoroot_LL()** - calculates seasonally averaged global map of soil water isotopes weighted by rooting depth fraction of vegetation <br/>
 *function* : **seasavg_wind_vec_LL()** - calculates seasonally averaged global map of U and V wind vectors <br/>
 
- ----------------- <br/>
- seas_cycle_TLL.py : list of functions for calculating seasonal cycle variable on a map with <br/>
- -----------------   final dimensions (time = 12 months x lat x lon; hence TLL) <br/>
+#---**seas_cycle_TLL.py**--- : *list of functions for calculating seasonal cycle variable on a map with final dimensions (time = 12 months x lat x lon; hence TLL) <br/>
 
-  function : seascyc_var_TLL() - calculates seasonal cycle global map of a specified variable
-                                 that may or may not include an atmospheric level dimension <br/>
-  function : seascyc_prect_TLL() - calculates seasonal cycle global map of precipitation <br/>
-  function : seascyc_soilvar_TLL() - calculates seasonal cycle global map of variable that
-                                     includes a soil level dimension <br/>
-  function : seascyc_rainiso_TLL() - calculates seasonal cycle global map of precipitation
-                                     isotopes <br/>
-  function : seascyc_soiliso_TLL() - calculates seasonal cycle global map of soil water
-                                     isotopes <br/>
-  function : seascyc_vaporiso_TLL() - calculates seasonal cycle global map of water vapor
-                                     isotopes at a specified atmospheric level <br/>
-  function : seascyc_isoroot_TLL() - calculates seasonal cycle global map of soil water <br/>
-                                     isotopes weighted by rooting depth fraction of vegetation
-  function : seascyc_wind_vec_TLL() - calculates seasonal cycle global map of U and V wind
-                                      vectors <br/>
+*function* : **seascyc_var_TLL() - calculates seasonal cycle global map of a specified variable that may or may not include an atmospheric level dimension <br/>
+*function* : **seascyc_prect_TLL()** - calculates seasonal cycle global map of precipitation <br/>
+*function* : **seascyc_soilvar_TLL()** - calculates seasonal cycle global map of variable that includes a soil level dimension <br/>
+*function* : **seascyc_rainiso_TLL()** - calculates seasonal cycle global map of precipitation isotopes <br/>
+*function* : **seascyc_soiliso_TLL()** - calculates seasonal cycle global map of soil water isotopes <br/>
+*function* : **seascyc_vaporiso_TLL()** - calculates seasonal cycle global map of water vapor isotopes at a specified atmospheric level <br/>
+*function* : **seascyc_isoroot_TLL()** - calculates seasonal cycle global map of soil water isotopes weighted by rooting depth fraction of vegetation <br/>
+*function* : **seascyc_wind_vec_TLL()** - calculates seasonal cycle global map of U and V wind vectors <br/>
 
  ------------------ <br/>
  seas_cycle_TSLL.py : list of functions for calculating seasonal cycle variable on a map with <br/>
