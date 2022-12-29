@@ -9,6 +9,19 @@ This is the prototype of ESMplot, a Python package designed for flexible visuali
 # Installation
 For current prototype version, download entire directory 'ESMplot' (size: ~42MB) from GitHub and place in your own working directory.
 
+# Dependencies
+This package was created using the following packages (versions listed in parentheses):
+
+numpy (1.23.3)
+xarray (2022.6.0)
+matplotlib (3.6.0)
+cartopy (0.21.0)
+cmaps (1.0.5)
+geocat.comp (2022.8.0)
+geocat.viz (2022.7.0) 
+
+If features of this package are not working, try matching dependencies to the versions listed above.
+
 # Table of Contents
 
 ====================================== <br/>
