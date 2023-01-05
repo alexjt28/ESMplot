@@ -12,7 +12,6 @@ from climate_analysis.climatology import clmMonTSLL
 from climate_analysis.mon_wgt_avg import mon_wgt_avg
 import climate_analysis.seas_cycle_TLL as seascyc
 import climate_analysis.seas_cycle_TSLL as seassoil
-from icecream import ic
 
 # Default arrays
 default_levels  = np.arange(0,1050,50) # 0 hPa to 1000 hPa by 50 
