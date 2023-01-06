@@ -16,7 +16,7 @@ numpy (1.23.3)<br/>
 xarray (2022.6.0)<br/>
 matplotlib (3.6.0)<br/>
 cartopy (0.21.0)<br/>
-cmaps (1.0.5)<br/>
+cmaps (1.0.5) (source: https://github.com/hhuangwx/cmaps)<br/>
 geocat.comp (2022.8.0)<br/>
 geocat.viz (2022.7.0)<br/>
 
