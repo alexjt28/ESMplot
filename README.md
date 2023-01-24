@@ -7,7 +7,7 @@ Date: 2023-01-24 <br/>
 This is the prototype of ESMplot, a Python package designed for flexible visualization of Earth system model netCDF output. This ReadMe file displays the types of modules and scripts currently available in this package, with a brief description of each included.
 
 # Installation
-For current prototype version, download entire directory 'ESMplot' (size: ~42MB) from GitHub and place in your own working directory.
+For current prototype version, download entire directory 'ESMplot' (size: ~92MB) from GitHub and place in your own working directory.
 
 # Conda environment
 Use /conda_envs/environment_ESMplot_py310.yml to create a conda environment with python 3.10 to run this package.<br/>
