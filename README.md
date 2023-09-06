@@ -4,7 +4,7 @@ Welcome to ESMplot: the Earth System Model plotting package on Python! <br/>
 Author: Alex Thompson (ajthompson@wustl.edu) <br/>
 Latest Update: 2023-09-06 <br/>
 <br/>
-This is the prototype of ESMplot, a Python package designed for flexible visualization of Earth system model netCDF output. This ReadMe file displays the types of modules and scripts currently available in this package, with a brief description of each included.
+This is the beta version of ESMplot, a Python package designed for flexible visualization of Earth system model netCDF output. 
 
 # Installation
 For current prototype version, download entire directory 'ESMplot' (size: ~92MB) from GitHub and place in your own working directory.
