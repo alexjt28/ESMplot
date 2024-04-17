@@ -9,7 +9,7 @@ This is the beta version of ESMplot, a Python package designed for flexible visu
 # Installation
 For current prototype version, download entire directory 'ESMplot' (size: ~55MB) from GitHub and place in your own working directory.
 
-One way to do this is to run this line of code: <br/>
+One way to do this is to run this line of code while in your own working directory: <br/>
 ```git clone https://github.com/alexjt28/ESMplot.git```
 
 # Conda environment
