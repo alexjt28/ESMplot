@@ -5,6 +5,7 @@ channels:
   - ncar         
 dependencies:
   - python=3.10
+  - numpy=1.23.5
   - geocat-f2py=2022.04.0
   - cartopy=0.21.1
   - cmaps=1.0.5
