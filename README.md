@@ -2,7 +2,7 @@
 
 Welcome to ESMplot: the Earth System Model plotting package on Python! <br/>
 Author: Alex Thompson (ajthompson@wustl.edu) <br/>
-Latest Update: 2023-09-06 <br/>
+Latest Update: 2024-04-17 <br/>
 <br/>
 This is the beta version of ESMplot, a Python package designed for flexible visualization of Earth system model netCDF output. 
 
@@ -31,6 +31,8 @@ directory **examples** <br/>
 ============================== <br/>
 
 Example scripts that show how to make plots with ESMplot. Included are calculate_seasavg.py (calculate seasonal average), calculate_seascyc.py (calculate seasonal cycle), and calculate_watertags.py (calculate water tagging results).
+
+Note: when changing central_longitude for water tagging plots, use tagged_regions_cenlon0.py or tagged_regions_cenlon180.py first and then copy the desired file to tagged_regions.py
 
 ============================== <br/>
 directory **ESMplot** <br/>
