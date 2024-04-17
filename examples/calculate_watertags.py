@@ -263,7 +263,7 @@ if overlay_vec == False: u_avg_by_case, v_avg_by_case = None, None
 # Plotting specifications are set here
 #-------------------------------------------------
 
-proj         = ccrs.PlateCarree(central_longitude=180.)  # Map projection
+proj         = ccrs.PlateCarree()  # Map projection
 Contour_type = 'RasterFill'        # 'RasterFill' or 'AreaFill'
 folderpath   = 'pdfs'                  # folder to output file to
 filesuf      = '.pdf'                  # type of output file
