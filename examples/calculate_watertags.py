@@ -67,10 +67,10 @@ model = 'cam'
 
 # File paths and names for each case
 # 20yr water tagging experiments (cam only)
-CASES = ['/paleonas/ajthompson/postproc/f.e12.F_1850_CAM5.wiso.f19.0ka.002.watertags.2.'+model+'.h0.0006-0025.climo.nc',
-        '/paleonas/ajthompson/postproc/f.e12.F_1850_CAM5.wiso.f19.21ka.fullforcing.modern.d18Osw.001.watertags.'+model+'.h0.0006-0025.climo.nc',
-        '/paleonas/ajthompson/postproc/f.e12.F_1850_CAM5.wiso.f19.21kaGHG.001.watertags.2.'+model+'.h0.0006-0025.climo.nc',
-        '/paleonas/ajthompson/postproc/f.e12.F_1850_CAM5.wiso.f19.21kaGlac.001.watertags.2.'+model+'.h0.0006-0025.climo.nc']
+CASES = ['f.e12.F_1850_CAM5.wiso.f19.0ka.002.watertags.2.'+model+'.h0.0006-0025.climo.nc',
+        'f.e12.F_1850_CAM5.wiso.f19.21ka.fullforcing.modern.d18Osw.001.watertags.'+model+'.h0.0006-0025.climo.nc',
+        'f.e12.F_1850_CAM5.wiso.f19.21kaGHG.001.watertags.2.'+model+'.h0.0006-0025.climo.nc',
+        'f.e12.F_1850_CAM5.wiso.f19.21kaGlac.001.watertags.2.'+model+'.h0.0006-0025.climo.nc']
 cases = ['0ka',
          '$21ka$',
          '$21ka_{GHG}$',
