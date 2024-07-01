@@ -17,4 +17,4 @@ dependencies:
   - xarray=2023.1.0
   - matplotlib=3.6.3
   - xskillscore=0.0.24
-prefix: /RAID/home/ajthompson/anaconda3/envs/ESMplot_py3.10
+prefix: [conda_path]/envs/ESMplot_py3.10
